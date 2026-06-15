@@ -1,25 +1,7 @@
 # 💫 About Me:
 Experienced Backend Developer and IT Trainer currently working at Semicolon Innovations, with hands-on experience in designing, developing, and maintaining scalable web applications. Skilled in MERN Stack development and PHP application development, with practical expertise in building secure backend systems, RESTful APIs, database management, and full-stack web solutions.
 
-Technical Skills
-
-Frontend Development:
-HTML5, CSS3, JavaScript (ES6+), React.js, JSX, React Hooks, Bootstrap, Responsive Web Design, UI Component Development
-
-Backend Development:
-Node.js, Express.js, PHP, RESTful API Development, Server-Side Logic, API Integration, Backend Architecture
-
-Database Management:
-MongoDB, MySQL, Database Design, Query Optimization, CRUD Operations
-
-Programming & Frameworks:
-MERN Stack (MongoDB, Express.js, React.js, Node.js), PHP Application Development
-
-Tools & Platforms:
-Git, GitHub, VS Code, Postman, npm, JSON, API Testing, Version Control
-
-Core Concepts:
-Component-Based Architecture, Authentication & Authorization, Database Management, Debugging, Testing, Performance Optimization, Clean Code Practices
+PORTFOLIO:sanooja-portfoli0.netlify.app
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanoojaas648@gmail.com) 
